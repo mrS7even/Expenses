@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "545353760112",
+    "project_id": "group-expenses-bac32",
+    "storage_bucket": "group-expenses-bac32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545353760112:android:9a855d47a3c2771e6123b5",
+        "android_client_info": {
+          "package_name": "com.example.expenses"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545353760112-mum6uql45bqvphvu5gkjt7e9pv4foiv6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCQ_Xy06cWl3gnC7Noo9uR0GPcJvok-DY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545353760112-mum6uql45bqvphvu5gkjt7e9pv4foiv6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "545353760112-4d97m3vcrhnvgjf1p154oug91p0dlg31.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.evgenii.groupExpenses"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545353760112:android:d1ed25f32f2f6a1b6123b5",
+        "android_client_info": {
+          "package_name": "com.example.group_expenses"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545353760112-mum6uql45bqvphvu5gkjt7e9pv4foiv6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCQ_Xy06cWl3gnC7Noo9uR0GPcJvok-DY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545353760112-mum6uql45bqvphvu5gkjt7e9pv4foiv6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "545353760112-4d97m3vcrhnvgjf1p154oug91p0dlg31.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.evgenii.groupExpenses"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545353760112:android:d1bb3af903cb73c36123b5",
+        "android_client_info": {
+          "package_name": "com.example.groupexpenses"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545353760112-mum6uql45bqvphvu5gkjt7e9pv4foiv6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCQ_Xy06cWl3gnC7Noo9uR0GPcJvok-DY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545353760112-mum6uql45bqvphvu5gkjt7e9pv4foiv6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "545353760112-4d97m3vcrhnvgjf1p154oug91p0dlg31.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.evgenii.groupExpenses"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
